@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.esdk.net/zh/categories/</loc>
+    <loc>http://esdk.net/zh/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.esdk.net/categories/"
+                href="http://esdk.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.esdk.net/zh/categories/"
+                href="http://esdk.net/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.esdk.net/zh/tags/</loc>
+    <loc>http://esdk.net/zh/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.esdk.net/tags/"
+                href="http://esdk.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.esdk.net/zh/tags/"
+                href="http://esdk.net/zh/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://www.esdk.net/zh/</loc>
+    <loc>http://esdk.net/zh/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.esdk.net/"
+                href="http://esdk.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://www.esdk.net/zh/"
+                href="http://esdk.net/zh/"
                 />
   </url>
   

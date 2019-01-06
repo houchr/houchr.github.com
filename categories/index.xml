@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on garry.hou</title>
-    <link>http://www.esdk.net/categories/</link>
+    <link>http://esdk.net/categories/</link>
     <description>Recent content in Categories on garry.hou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh</language>
     
-	<atom:link href="http://www.esdk.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://esdk.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
