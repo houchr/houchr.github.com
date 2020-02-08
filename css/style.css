@@ -850,7 +850,7 @@ a.article-title:hover {
 .article-share-facebook,
 .article-share-pinterest,
 .article-share-google {
-  width: 50px;
+  width: 120px;
   height: 36px;
   display: block;
   float: left;
@@ -909,7 +909,7 @@ a.article-title:hover {
   text-shadow: 0 1px #a21a1f;
 }
 .article-share-tencent:before {
-  content: "\f1d5";
+  content: "\f1d7";
 }
 .article-share-tencent:hover {
   background: #dd4b39;
