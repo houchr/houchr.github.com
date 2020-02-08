@@ -5,9 +5,9 @@
   <subtitle>{ 融入生活，改变世界 }</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://esdk.net/"/>
+  <link href="http://esdk.net/"/>
   <updated>2020-02-08T05:43:54.988Z</updated>
-  <id>https://esdk.net/</id>
+  <id>http://esdk.net/</id>
   
   <author>
     <name>ESDK.NET</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>命令行解析工具 Command Line Parser - Clips</title>
-    <link href="https://esdk.net/2020/02/03/clips_command_line_parser/"/>
-    <id>https://esdk.net/2020/02/03/clips_command_line_parser/</id>
+    <link href="http://esdk.net/2020/02/03/clips_command_line_parser/"/>
+    <id>http://esdk.net/2020/02/03/clips_command_line_parser/</id>
     <published>2020-02-02T16:00:00.000Z</published>
     <updated>2020-02-08T05:43:54.988Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="开源贡献" scheme="https://esdk.net/categories/%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE/"/>
+      <category term="开源贡献" scheme="http://esdk.net/categories/%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE/"/>
     
     
-      <category term="clips" scheme="https://esdk.net/tags/clips/"/>
+      <category term="clips" scheme="http://esdk.net/tags/clips/"/>
     
-      <category term="命令行解析" scheme="https://esdk.net/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%A7%A3%E6%9E%90/"/>
+      <category term="命令行解析" scheme="http://esdk.net/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E8%A7%A3%E6%9E%90/"/>
     
-      <category term="Command Line Parser" scheme="https://esdk.net/tags/Command-Line-Parser/"/>
+      <category term="Command Line Parser" scheme="http://esdk.net/tags/Command-Line-Parser/"/>
     
   </entry>
   
