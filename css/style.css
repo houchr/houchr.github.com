@@ -842,6 +842,10 @@ a.article-title:hover {
 .article-share-links:after {
   clear: both;
 }
+.article-share-sina,
+.article-share-qq,
+.article-share-renren,
+.article-share-tencent,
 .article-share-twitter,
 .article-share-facebook,
 .article-share-pinterest,
@@ -854,6 +858,10 @@ a.article-title:hover {
   color: #999;
   text-shadow: 0 1px #fff;
 }
+.article-share-sina:before,
+.article-share-qq:before,
+.article-share-renren:before,
+.article-share-tencent:before,
 .article-share-twitter:before,
 .article-share-facebook:before,
 .article-share-pinterest:before,
@@ -869,11 +877,43 @@ a.article-title:hover {
   margin-left: -10px;
   text-align: center;
 }
+.article-share-sina:hover,
+.article-share-qq:hover,
+.article-share-renren:hover,
+.article-share-tencent:hover,
 .article-share-twitter:hover,
 .article-share-facebook:hover,
 .article-share-pinterest:hover,
 .article-share-google:hover {
   color: #fff;
+}
+.article-share-sina:before {
+  content: "\f18a";
+}
+.article-share-sina:hover {
+  background: #00aced;
+  text-shadow: 0 1px #008abe;
+}
+.article-share-qq:before {
+  content: "\f1d6";
+}
+.article-share-qq:hover {
+  background: #3b5998;
+  text-shadow: 0 1px #2f477a;
+}
+.article-share-renren:before {
+  content: "\f18b";
+}
+.article-share-renren:hover {
+  background: #cb2027;
+  text-shadow: 0 1px #a21a1f;
+}
+.article-share-tencent:before {
+  content: "\f1d5";
+}
+.article-share-tencent:hover {
+  background: #dd4b39;
+  text-shadow: 0 1px #be3221;
 }
 .article-share-twitter:before {
   content: "\f099";
